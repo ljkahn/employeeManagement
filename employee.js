@@ -33,4 +33,4 @@ getRole() {
 };
 
 //export the Employee class
-module.exports = Employee; 
+module.exports = Employee;
